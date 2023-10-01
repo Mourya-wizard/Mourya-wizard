@@ -3,7 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Mourya-wizard&style=plastic&color=ff99c4)
 
-### Hey there👋
+<h1 align="center">Hey there 👋, I'm Mourya</h1>
+<h3 align="center">Machine Learning Enthusiast with interests in Computer Vision and NLP !</h3>
+<br />
 
 <!--
 **Mourya-wizard/Mourya-wizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on various projects in the field of Computer Vision.
+- 🔭 I’m currently working on various projects in the field of **Computer Vision**.
 - 🌱 I’m currently learning concepts and applying them to projects.
 - 👯 I’m looking to collaborate on interesting projects.
+- 🎯 2023 Goal : **Contribute to Open Source and Build Great Products.**
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
