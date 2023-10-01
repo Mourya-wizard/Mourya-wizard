@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on various projects in the field of CV
-- 🌱 I’m currently learning concepts and applying them to my projects
-- 👯 I’m looking to collaborate on interesting prjects.
+- 🔭 I’m currently working on various projects in the field of Computer Vision.
+- 🌱 I’m currently learning concepts and applying them to projects.
+- 👯 I’m looking to collaborate on interesting projects.
 
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/mourya-konathala-2b9b631b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
