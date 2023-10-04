@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on interesting projects.
 - 🎯 2023 Goal : **Contribute to Open Source and Build Great Products.**
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Connect with me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/mourya-konathala-2b9b631b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
