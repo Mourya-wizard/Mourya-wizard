@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Mourya-wizard&style=plastic&color=ff99c4)
 
 <h1 align="center">Hey there 👋, I'm Mourya</h1>
-<h3 align="center">Machine Learning Enthusiast with interests in Computer Vision and NLP !</h3>
+<h3 align="center">Machine Learning Enthusiast with interests in Computer Vision and NLP!</h3>
 <br />
 
 <!--
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 🔗 &nbsp;**Connect with me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/mourya-konathala-2b9b631b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+
 
 **Languages & Tools:**
 <p align="left">
