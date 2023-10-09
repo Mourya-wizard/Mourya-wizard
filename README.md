@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Mourya-wizard&style=plastic&color=ff99c4)
 
 <h1 align="center">Hey there 👋, I'm Mourya</h1>
-<h3 align="center">Machine Learning Enthusiast with interests in Computer Vision and NLP!</h3>
+<h3 align="center"> Machine Learning Enthusiast with interests in Computer Vision and NLP!</h3>
 <br />
 
 <!--
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning concepts and applying them to projects.
 - 👯 I’m looking to collaborate on interesting projects.
 - 🎯 2023 Goal : **Contribute to Open Source and Build Great Products.**
+
 
 🔗 &nbsp;**Connect with me:**
 <p align="left">
