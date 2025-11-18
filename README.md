@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on various projects in the field of **Computer Vision**.
 - 🌱 I’m currently learning concepts and applying them to projects.
 - 👯 I’m looking to collaborate on interesting projects.
-- 🎯 2024 Goal : **Contribute to Open Source and Build Great Products.**
+- 🎯 2026 Goal : **Contribute to Open Source and Build Great Products and Publish Research Journal.**
 
 
 🔗 &nbsp;**Connect with me:**
